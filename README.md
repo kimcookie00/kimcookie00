@@ -23,7 +23,7 @@ Here are some ideas to get you started:
           <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white">
           <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white">
           <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white">
-          <img src="https://img.shields.io/badge/Spark-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white">
+          <img src="https://img.shields.io/badge/Spark-EE4C2C?style=flat-square&logo=Spark&logoColor=white">
           </div>
     </div>
     <div style="text-align: left;">

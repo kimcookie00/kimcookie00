@@ -24,8 +24,7 @@ Here are some ideas to get you started:
           <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white">
           <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white">
           <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white">
-          <img src="https://img.shields.io/badge/C#-A8B9CC?style=flat-square&logo=&logoColor=white">
-          <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=white">
+          <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black">
           </div>
     </div>
     <div style="text-align: left;">

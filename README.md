@@ -15,16 +15,18 @@ Here are some ideas to get you started:
 
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 끊임없이 배우며 성장하는 개발자 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> AI 모델 개발 및 최적화 경험을 바탕으로 현실적인 AI 시스템을 구축하는 개발자입니다. </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> AI 모델 개발 및 최적화 경험을 바탕으로 현실적인 AI 시스템을 구축하고자 노력하는 개발자입니다. </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
           <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white">
+          <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white">
           <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white">
           <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white">
-          <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white">
           <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black">
+          <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=black">
+          <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=black">
           </div>
     </div>
     <div style="text-align: left;">
